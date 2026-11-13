@@ -1,0 +1,349 @@
+unique_key,created_date,closed_date,agency,complaint_type,descriptor,location_type,incident_zip,borough
+47368283,2020-08-26 19:23:28,2020-08-26 19:24:06,NYPD,Noise - Vehicle,Car/Truck Horn,Street/Sidewalk,11432,QUEENS
+47365581,2020-08-26 18:04:00,2020-08-29 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11238,BROOKLYN
+47056582,2020-08-01 16:44:00,2020-08-08 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11229,BROOKLYN
+47056818,2020-08-01 16:10:38,2020-08-01 16:16:11,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,11211,BROOKLYN
+47065355,2020-08-01 15:52:00,2020-08-05 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11236,BROOKLYN
+47370770,2020-08-26 19:06:00,2022-06-30 00:00:00,DOB,General Construction/Plumbing,Building Permit - None,,11691,QUEENS
+47057761,2020-08-01 15:57:05,2020-08-01 16:41:29,NYPD,Blocked Driveway,Partial Access,Street/Sidewalk,11103,QUEENS
+47063850,2020-08-01 16:30:56,2020-08-01 20:33:02,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,10453,BRONX
+47367708,2020-08-26 18:15:55,2020-12-15 16:31:45,DOT,Outdoor Dining,Sidewalk Zone Blocked,Sidewalk,10024,MANHATTAN
+47053318,2020-08-01 16:03:32,2020-08-01 16:04:38,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11235,BROOKLYN
+47052043,2020-08-01 16:31:09,2020-08-01 19:25:49,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10002,MANHATTAN
+47374271,2020-08-26 17:59:10,2020-08-26 18:00:45,DHS,Homeless Person Assistance,N/A,N/A,10019,MANHATTAN
+47375179,2020-08-26 18:48:38,2020-08-30 09:04:39,HPD,UNSANITARY CONDITION,PESTS,RESIDENTIAL BUILDING,11369,QUEENS
+47072843,2020-08-01 16:37:00,2020-08-03 12:00:00,DSNY,Missed Collection (All Materials),1R Missed Recycling-All Materials,Sidewalk,10465,BRONX
+47371781,2020-08-26 18:09:52,2020-08-26 19:17:59,NYPD,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,10002,MANHATTAN
+47060155,2020-08-01 16:32:28,2020-08-01 16:32:51,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47367532,2020-08-26 19:10:13,2020-08-27 09:29:08,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11004,QUEENS
+47373901,2020-08-26 19:10:50,2020-08-29 10:06:26,HPD,UNSANITARY CONDITION,MOLD,RESIDENTIAL BUILDING,10040,MANHATTAN
+47073756,2020-08-01 16:40:00,2020-08-03 12:00:00,DSNY,Dirty Conditions,E2 Receptacle Violation,Sidewalk,11377,QUEENS
+47371914,2020-08-26 19:10:00,2020-08-26 19:10:00,DEP,Water System,Hydrant Running Full (WA4),,11224,BROOKLYN
+47059978,2020-08-01 15:58:00,2020-08-05 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11104,QUEENS
+47053648,2020-08-01 16:16:21,2020-08-01 16:16:56,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47371216,2020-08-26 18:09:19,2020-09-09 09:53:57,HPD,UNSANITARY CONDITION,PESTS,RESIDENTIAL BUILDING,10029,MANHATTAN
+47373118,2020-08-26 18:43:00,2020-08-31 19:20:57,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11231,BROOKLYN
+47059732,2020-08-01 17:01:19,2020-08-01 17:01:46,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47366229,2020-08-26 19:21:42,2020-08-26 19:27:11,NYPD,Illegal Parking,Commercial Overnight Parking,Street/Sidewalk,11411,QUEENS
+47368852,2020-08-26 18:07:35,2020-08-26 19:10:33,NYPD,Blocked Driveway,Partial Access,Street/Sidewalk,11210,BROOKLYN
+47367413,2020-08-26 19:04:22,2020-09-11 12:35:35,DPR,Overgrown Tree/Branches,Hitting Building,Street,11370,QUEENS
+47371491,2020-08-26 17:53:58,2020-08-26 23:11:15,DHS,Homeless Person Assistance,N/A,N/A,11222,BROOKLYN
+47366911,2020-08-26 18:59:00,2020-08-30 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11364,QUEENS
+47056872,2020-08-01 15:50:56,2020-08-08 18:09:12,HPD,DOOR/WINDOW,DOOR FRAME,RESIDENTIAL BUILDING,10469,BRONX
+47061170,2020-08-01 16:23:04,2020-08-01 16:24:23,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47375635,2020-08-26 17:59:00,2020-10-09 12:00:00,DSNY,Dirty Conditions,E3 Dirty Sidewalk,Sidewalk,11363,QUEENS
+47370648,2020-08-26 19:12:00,2020-09-01 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11102,QUEENS
+47054312,2020-08-01 16:06:00,2020-08-04 10:51:00,DEP,Noise,"Noise, Barking Dog (NR5)",,10465,BRONX
+47367383,2020-08-26 18:55:16,2020-09-17 10:12:52,DPR,Damaged Tree,Entire Tree Has Fallen Down,Street,,Unspecified
+47070348,2020-08-01 17:10:00,2020-08-04 12:00:00,DSNY,Missed Collection (All Materials),2 Bulk-Missed Collection,Sidewalk,11358,QUEENS
+47052474,2020-08-01 17:09:16,2020-08-01 18:00:29,NYPD,Abandoned Vehicle,With License Plate,Street/Sidewalk,11413,QUEENS
+47369976,2020-08-26 18:14:24,2020-08-26 19:13:37,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11226,BROOKLYN
+47366113,2020-08-26 17:56:43,2020-08-26 18:18:15,NYPD,Blocked Driveway,No Access,Street/Sidewalk,10467,BRONX
+47373956,2020-08-26 18:24:00,2020-08-31 08:07:00,DOT,Street Light Condition,Street Light Out,,,MANHATTAN
+47368786,2020-08-26 18:18:45,2020-08-27 01:55:06,NYPD,Abandoned Vehicle,With License Plate,Street/Sidewalk,11378,QUEENS
+47374242,2020-08-26 19:23:20,2020-08-26 19:24:17,NYPD,Abandoned Vehicle,With License Plate,Street/Sidewalk,11417,QUEENS
+47375378,2020-08-26 18:13:09,2020-09-11 12:32:33,DPR,Overgrown Tree/Branches,Hitting Building,Street,11365,QUEENS
+47371837,2020-08-26 19:01:00,2020-08-27 20:15:00,DEP,Noise,"Noise, Ice Cream Truck (NR4)",,11201,BROOKLYN
+47372179,2020-08-26 18:15:17,2020-08-29 17:49:42,HPD,PAINT/PLASTER,CEILING,RESIDENTIAL BUILDING,10035,MANHATTAN
+47062834,2020-08-01 16:43:00,2020-08-02 11:30:00,DEP,Sewer,Street Flooding (SJ),,11417,QUEENS
+47369757,2020-08-26 19:01:01,2020-09-14 09:31:02,HPD,UNSANITARY CONDITION,GARBAGE/RECYCLING STORAGE,RESIDENTIAL BUILDING,11207,BROOKLYN
+47064013,2020-08-01 16:33:00,2020-08-01 22:27:18,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10457,BRONX
+47368265,2020-08-26 18:19:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10314,STATEN ISLAND
+47366362,2020-08-26 18:14:45,2020-08-26 18:19:27,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10468,BRONX
+47059135,2020-08-01 16:55:54,2020-08-03 16:20:13,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11237,BROOKLYN
+47062016,2020-08-01 16:56:00,2020-08-06 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11102,QUEENS
+47063059,2020-08-01 16:15:23,2020-08-06 11:02:32,HPD,APPLIANCE,ELECTRIC/GAS RANGE,RESIDENTIAL BUILDING,11220,BROOKLYN
+47060250,2020-08-01 16:32:15,2020-08-07 10:49:00,DPR,Maintenance or Facility,Structure - Outdoors,Park,10002,MANHATTAN
+47374913,2020-08-26 18:12:00,2020-09-02 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11419,QUEENS
+47365556,2020-08-26 19:10:00,2020-08-30 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10014,MANHATTAN
+47064610,2020-08-01 17:08:00,2020-08-02 03:30:00,DEP,Water System,Hydrant Running (WC3),,11368,QUEENS
+47059106,2020-08-01 17:08:42,2020-08-01 17:09:14,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47375087,2020-08-26 18:04:51,2020-08-26 18:22:17,NYPD,Noise - Street/Sidewalk,Loud Talking,Street/Sidewalk,11231,BROOKLYN
+47368219,2020-08-26 18:32:00,2020-09-01 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11379,QUEENS
+47372404,2020-08-26 18:10:49,2020-08-27 01:34:52,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10456,BRONX
+47057165,2020-08-01 17:04:40,2020-08-01 17:05:11,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47063119,2020-08-01 16:51:56,2020-08-01 16:52:25,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47056638,2020-08-01 17:10:43,2020-08-01 17:11:23,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47064016,2020-08-01 15:48:11,2020-08-01 16:01:06,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47062838,2020-08-01 16:11:19,2020-09-22 00:00:00,DOB,Elevator,Elevator - Single Device On Property/No Alternate Service,,11377,QUEENS
+47369000,2020-08-26 19:22:58,2020-08-26 21:05:23,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10453,BRONX
+47060786,2020-08-01 15:46:49,2020-08-01 16:01:50,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47371538,2020-08-26 18:28:11,2020-08-27 01:36:14,NYPD,Abandoned Vehicle,With License Plate,,10452,BRONX
+47052029,2020-08-01 16:50:35,2020-08-01 16:51:08,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47376387,2020-08-26 18:19:00,2020-08-27 12:00:00,DSNY,Sanitation Condition,15 Street Cond/Dump-Out/Drop-Off,Street,10457,BRONX
+47371126,2020-08-26 19:22:12,2020-11-29 07:54:09,HPD,UNSANITARY CONDITION,PESTS,RESIDENTIAL BUILDING,11432,QUEENS
+47368189,2020-08-26 17:56:39,2020-09-11 16:14:05,HPD,FLOORING/STAIRS,FLOOR,RESIDENTIAL BUILDING,10457,BRONX
+47385139,2020-08-26 18:28:00,2020-09-02 12:00:00,DSNY,Missed Collection (All Materials),2 Bulk-Missed Collection,Sidewalk,10310,STATEN ISLAND
+47375141,2020-08-26 18:06:32,2020-08-27 11:20:13,DOT,Street Condition,Failed Street Repair,Street,11204,BROOKLYN
+47060365,2020-08-01 16:42:48,2020-08-01 17:22:31,NYPD,Noise - Commercial,Banging/Pounding,Store/Commercial,11358,QUEENS
+47057133,2020-08-01 16:44:24,2020-08-01 16:58:38,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,11208,BROOKLYN
+47369924,2020-08-26 18:13:34,2024-12-05 08:56:32,DPR,Overgrown Tree/Branches,Hitting Building,Street,11234,BROOKLYN
+47054247,2020-08-01 16:23:21,2020-08-15 00:00:00,DOB,Emergency Response Team (ERT),After Hours Work - Illegal,,11222,BROOKLYN
+47065229,2020-08-01 16:12:13,2020-08-03 09:31:30,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Street,11422,QUEENS
+47374110,2020-08-26 18:51:57,2020-08-26 19:14:41,NYPD,Noise - Commercial,Loud Music/Party,Store/Commercial,10029,MANHATTAN
+47369586,2020-08-26 19:27:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11228,BROOKLYN
+47367128,2020-08-26 18:18:35,2020-08-27 07:45:09,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11103,QUEENS
+47368893,2020-08-26 19:19:38,2020-08-26 21:34:37,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11234,BROOKLYN
+47052832,2020-08-01 16:23:14,2020-08-01 16:54:31,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11412,QUEENS
+47054766,2020-08-01 16:04:00,2020-08-04 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10002,MANHATTAN
+47063084,2020-08-01 15:50:56,2020-08-08 18:09:12,HPD,UNSANITARY CONDITION,PESTS,RESIDENTIAL BUILDING,10469,BRONX
+47367095,2020-08-26 18:33:14,2020-08-26 19:20:06,NYPD,Noise - Residential,Banging/Pounding,,11225,BROOKLYN
+47368262,2020-08-26 18:46:58,2020-10-09 00:00:00,DOB,Elevator,Elevator - Single Device On Property/No Alternate Service,,10033,MANHATTAN
+47064105,2020-08-01 16:56:00,2020-08-01 18:30:00,DEP,Water System,Hydrant Running (WC3),,11233,BROOKLYN
+47065507,2020-08-01 16:49:38,2025-01-11 09:38:53,DOHMH,Mobile Food Vendor,Permit/License/Certificate,Mobile Food Vendor,11109,QUEENS
+47365571,2020-08-26 19:25:00,2020-08-30 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10465,BRONX
+47062218,2020-08-01 17:08:40,2020-08-01 18:02:27,NYPD,Illegal Fireworks,N/A,Store/Commercial,10462,BRONX
+47368830,2020-08-26 18:40:44,2020-08-26 19:05:36,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11209,BROOKLYN
+47366244,2020-08-26 19:09:36,2020-08-26 21:00:08,NYPD,Illegal Parking,Commercial Overnight Parking,Street/Sidewalk,11378,QUEENS
+47065408,2020-08-01 16:16:00,2020-09-15 14:22:00,DOT,Street Light Condition,Street Light Out,,11429,QUEENS
+47058811,2020-08-01 15:50:11,2020-08-01 15:58:15,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47062194,2020-08-01 17:04:50,2020-08-01 18:03:04,NYPD,Noise - Park,Loud Music/Party,Park/Playground,10027,MANHATTAN
+47374531,2020-08-26 18:26:11,2020-08-26 18:32:55,NYPD,Illegal Parking,Blocked Bike Lane,Street/Sidewalk,10011,MANHATTAN
+47372504,2020-08-26 18:58:21,2020-09-14 16:00:49,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Street,11370,QUEENS
+47071938,2020-08-01 17:03:00,2020-08-04 12:00:00,DSNY,Missed Collection (All Materials),1 Missed Collection,Sidewalk,11358,QUEENS
+47369554,2020-08-26 19:04:56,2020-08-26 19:29:58,NYPD,Illegal Parking,Blocked Sidewalk,Street/Sidewalk,11214,BROOKLYN
+47070298,2020-08-01 17:05:00,2020-08-08 12:00:00,DSNY,Missed Collection (All Materials),1R Missed Recycling-All Materials,Sidewalk,10314,STATEN ISLAND
+47381247,2020-08-26 18:47:00,2020-10-15 12:00:00,DSNY,Dirty Conditions,E1 Improper Disposal,Sidewalk,11208,BROOKLYN
+47366980,2020-08-26 18:04:00,2020-09-04 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11419,QUEENS
+47056306,2020-08-01 16:26:19,2020-09-16 00:00:00,DOB,Elevator,Elevator - Single Device On Property/No Alternate Service,,10035,MANHATTAN
+47065798,2020-08-01 16:43:00,2020-09-01 12:00:00,DSNY,Dirty Conditions,E3 Dirty Sidewalk,Sidewalk,11207,BROOKLYN
+47371490,2020-08-26 18:01:30,2020-09-14 10:48:11,DOT,Broken Parking Meter,Coin or Card Did Not Register,Street,11229,BROOKLYN
+47063034,2020-08-01 16:29:20,2020-08-25 00:00:00,DOB,Elevator,Elevator - Single Device On Property/No Alternate Service,,10011,MANHATTAN
+47063258,2020-08-01 16:34:29,2020-08-01 16:37:07,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47054420,2020-08-01 16:10:10,2020-08-01 16:39:28,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11419,QUEENS
+47364916,2020-08-26 18:57:58,2020-08-26 19:44:22,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11368,QUEENS
+47366910,2020-08-26 19:09:00,2020-09-02 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11238,BROOKLYN
+47369724,2020-08-26 17:56:40,2020-09-11 16:14:05,HPD,PAINT/PLASTER,RADIATOR,RESIDENTIAL BUILDING,10457,BRONX
+47064581,2020-08-01 15:52:07,2020-08-01 16:03:01,NYPD,Vending,Unlicensed,Park/Playground,11224,BROOKLYN
+47055361,2020-08-01 16:23:00,2020-08-01 16:52:50,NYPD,Illegal Parking,Blocked Sidewalk,Street/Sidewalk,11230,BROOKLYN
+47061195,2020-08-01 15:56:17,2020-08-01 16:44:01,NYPD,Illegal Parking,Blocked Sidewalk,Street/Sidewalk,11694,QUEENS
+47059818,2020-08-01 16:52:03,2020-08-01 16:55:19,NYPD,Non-Emergency Police Matter,Other (complaint details),Street/Sidewalk,10035,MANHATTAN
+47056303,2020-08-01 15:54:36,2020-08-01 16:25:32,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11236,BROOKLYN
+47369483,2020-08-26 19:09:04,2020-10-15 00:00:00,DOB,Elevator,Elevator - Multiple Devices On Property,,11694,QUEENS
+47061642,2020-08-01 16:19:52,2020-08-19 15:30:01,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Street,11210,BROOKLYN
+47370128,2020-08-26 18:32:06,2020-08-28 17:33:01,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,10003,MANHATTAN
+47062917,2020-08-01 16:40:00,2020-08-02 07:00:00,DEP,Water System,Other Water Problem (Use Comments) (WZZ),,11201,BROOKLYN
+47061229,2020-08-01 16:30:03,2020-08-08 17:46:03,HPD,UNSANITARY CONDITION,MOLD,RESIDENTIAL BUILDING,10472,BRONX
+47365854,2020-08-26 17:50:50,2020-09-02 10:24:14,HPD,UNSANITARY CONDITION,GARBAGE/RECYCLING STORAGE,RESIDENTIAL BUILDING,10456,BRONX
+47369033,2020-08-26 18:45:03,2020-08-26 18:57:53,NYPD,Noise - Commercial,Loud Music/Party,Club/Bar/Restaurant,11377,QUEENS
+47064197,2020-08-01 16:30:57,2020-08-12 17:43:17,HPD,DOOR/WINDOW,WINDOW FRAME,RESIDENTIAL BUILDING,10039,MANHATTAN
+47371932,2020-08-26 19:18:00,2020-08-29 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11373,QUEENS
+47062497,2020-08-01 15:53:21,2020-08-01 17:45:50,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11225,BROOKLYN
+47059580,2020-08-01 16:03:39,2020-08-01 16:23:00,NYPD,Noise - Commercial,Loud Music/Party,Store/Commercial,11220,BROOKLYN
+47366106,2020-08-26 19:08:06,2020-08-27 07:44:52,NYPD,Blocked Driveway,Partial Access,,11103,QUEENS
+47372608,2020-08-26 17:50:50,2020-09-02 10:24:14,HPD,UNSANITARY CONDITION,SEWAGE,RESIDENTIAL BUILDING,10456,BRONX
+47374329,2020-08-26 18:15:43,2020-08-26 18:48:00,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11207,BROOKLYN
+47057442,2020-08-01 16:39:51,2020-08-01 16:40:33,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47054305,2020-08-01 15:47:00,2020-08-02 08:00:00,DEP,Water System,Leak (Use Comments) (WA2),,11211,BROOKLYN
+47057918,2020-08-01 16:35:13,2020-08-01 16:54:24,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11419,QUEENS
+47370123,2020-08-26 18:35:01,2020-08-26 22:06:07,NYPD,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,10016,MANHATTAN
+47058827,2020-08-01 16:25:04,2020-08-01 17:54:14,NYPD,Illegal Parking,Posted Parking Sign Violation,,11214,BROOKLYN
+47060679,2020-08-01 16:55:21,2020-08-01 17:47:52,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10451,BRONX
+47060285,2020-08-01 16:02:56,2020-08-01 16:03:15,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47365583,2020-08-26 17:53:00,2020-09-02 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11366,QUEENS
+47062573,2020-08-01 15:52:36,2020-08-01 22:28:12,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10457,BRONX
+47373288,2020-08-26 19:05:00,2020-09-01 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11102,QUEENS
+47366268,2020-08-26 19:16:38,2025-01-10 05:18:02,DOHMH,Day Care,Day Care Facility,Apartment,11224,BROOKLYN
+47372226,2020-08-26 18:56:47,2020-09-17 00:00:00,DOB,Electrical,Electrical Wiring Defective/Exposed,,11220,BROOKLYN
+47065154,2020-08-01 16:52:30,2024-06-04 04:18:38,DOHMH,Smoking,Smoking Violation,Residential Building,10301,STATEN ISLAND
+47371977,2020-08-26 18:54:00,2020-08-29 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10457,BRONX
+47060376,2020-08-01 16:27:00,2020-08-01 18:50:00,DOT,Traffic Signal Condition,Controller,,,
+47054149,2020-08-01 16:21:01,2020-09-28 23:23:10,DOT,Street Condition,Defective Hardware,Street,11207,BROOKLYN
+47057763,2020-08-01 16:15:41,2020-08-01 16:16:42,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47066914,2020-08-01 16:02:00,2020-08-26 12:00:00,DSNY,Dirty Conditions,E3A Dirty Area/Alleyway,Lot,10304,STATEN ISLAND
+47053782,2020-08-01 16:19:54,2020-08-01 16:35:44,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10037,MANHATTAN
+47366062,2020-08-26 18:01:45,2020-08-27 09:34:00,DPR,Maintenance or Facility,Structure - Outdoors,Park,11358,QUEENS
+47056113,2020-08-01 16:01:35,2020-08-01 16:02:04,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47056946,2020-08-01 16:27:06,2020-08-03 11:02:17,HPD,HEAT/HOT WATER,ENTIRE BUILDING,RESIDENTIAL BUILDING,10467,BRONX
+47384642,2020-08-26 19:19:00,2020-09-03 12:00:00,DSNY,Sanitation Condition,15 Street Cond/Dump-Out/Drop-Off,Street,,
+47063281,2020-08-01 16:08:50,2020-08-01 16:33:09,NYPD,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,11691,QUEENS
+47062289,2020-08-01 17:11:23,2025-04-22 17:22:25,DPR,New Tree Request,For One Address,Street,11385,QUEENS
+47371310,2020-08-26 19:18:48,2020-08-26 19:53:41,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11226,BROOKLYN
+47056452,2020-08-01 16:54:37,2020-08-05 16:34:38,HPD,SAFETY,FIRE ESCAPE,RESIDENTIAL BUILDING,11211,BROOKLYN
+47366529,2020-08-26 18:32:33,2020-08-26 18:54:20,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,11208,BROOKLYN
+47365927,2020-08-26 17:59:00,2020-08-28 08:00:00,DOT,Traffic Signal Condition,Pedestrian Signal,,,
+47058527,2020-08-01 17:12:00,2020-08-01 18:20:00,DOT,Traffic Signal Condition,Pedestrian Signal,,11201,BROOKLYN
+47065093,2020-08-01 16:58:03,2020-08-03 14:05:14,DCWP,Consumer Complaint,Retail Store,,11220,BROOKLYN
+47052909,2020-08-01 15:52:41,2020-08-03 11:04:41,TLC,Lost Property,Bag/Wallet,,10025,MANHATTAN
+47367539,2020-08-26 19:05:00,2020-08-26 19:18:01,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11418,QUEENS
+47056585,2020-08-01 16:55:19,2020-08-01 16:55:35,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47063985,2020-08-01 16:30:57,2020-08-12 17:43:15,HPD,WATER LEAK,HEAVY FLOW,RESIDENTIAL BUILDING,10039,MANHATTAN
+47372392,2020-08-26 18:57:43,2020-09-14 09:31:01,HPD,UNSANITARY CONDITION,GARBAGE/RECYCLING STORAGE,RESIDENTIAL BUILDING,11207,BROOKLYN
+47384497,2020-08-26 19:10:00,2020-08-27 12:00:00,DSNY,Sanitation Condition,22 Weeds,Sidewalk,11219,BROOKLYN
+47370272,2020-08-26 18:20:27,2020-08-26 22:05:52,NYPD,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,10016,MANHATTAN
+47054992,2020-08-01 15:59:34,2020-08-01 16:00:27,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47066905,2020-08-01 17:05:00,2020-08-03 12:00:00,DSNY,Missed Collection (All Materials),1 Missed Collection,Sidewalk,10459,BRONX
+47368012,2020-08-26 19:05:00,2020-08-26 19:30:00,DOT,Traffic Signal Condition,LED Lense,,10462,BRONX
+47057213,2020-08-01 16:09:19,2020-08-01 16:44:13,NYPD,Blocked Driveway,Partial Access,Street/Sidewalk,11207,BROOKLYN
+47059326,2020-08-01 16:49:53,2020-08-01 16:52:17,NYPD,Noise - Residential,Loud Talking,Residential Building/House,11102,QUEENS
+47063265,2020-08-01 16:48:34,2020-08-01 16:49:02,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47365091,2020-08-26 19:27:38,2020-08-26 23:04:51,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+47053323,2020-08-01 16:10:59,2020-08-01 16:11:43,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47366474,2020-08-26 18:34:33,2020-08-26 18:44:11,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10472,BRONX
+47374673,2020-08-26 18:49:00,2020-08-30 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11370,QUEENS
+47370677,2020-08-26 18:23:09,2020-08-26 18:27:51,NYPD,Noise - Vehicle,Engine Idling,Street/Sidewalk,11379,QUEENS
+47059761,2020-08-01 16:34:00,2020-08-02 03:55:00,DEP,Water System,Hydrant Running Full (WA4),,11208,BROOKLYN
+47366542,2020-08-26 19:03:04,2020-08-26 19:06:13,NYPD,Non-Emergency Police Matter,Other (complaint details),Residential Building/House,10024,MANHATTAN
+47057433,2020-08-01 16:35:05,2020-08-12 15:49:04,DOT,Sidewalk Condition,Broken Sidewalk,Sidewalk,10451,BRONX
+47060460,2020-08-01 16:30:21,2020-08-03 11:20:09,HPD,HEAT/HOT WATER,ENTIRE BUILDING,RESIDENTIAL BUILDING,11249,BROOKLYN
+47061972,2020-08-01 17:10:07,2020-08-01 18:31:37,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11226,BROOKLYN
+47062717,2020-08-01 17:00:19,2020-08-01 17:07:34,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10037,MANHATTAN
+47365121,2020-08-26 18:09:10,2020-08-26 18:19:56,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11104,QUEENS
+47059015,2020-08-01 16:59:48,2020-08-01 17:20:53,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10031,MANHATTAN
+47056675,2020-08-01 15:59:10,2020-08-01 16:29:01,DHS,Homeless Person Assistance,N/A,N/A,11373,QUEENS
+47064108,2020-08-01 15:58:11,2020-08-01 16:05:15,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10037,MANHATTAN
+47370337,2020-08-26 18:05:27,2020-10-26 16:28:04,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11374,QUEENS
+47063471,2020-08-01 16:57:53,2020-08-01 17:13:48,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10032,MANHATTAN
+47057397,2020-08-01 16:07:15,2020-08-01 16:36:53,NYPD,Noise - Commercial,Car/Truck Music,Store/Commercial,11237,BROOKLYN
+47384568,2020-08-26 17:59:00,2020-08-28 12:00:00,DSNY,Sanitation Condition,15 Street Cond/Dump-Out/Drop-Off,Street,10019,MANHATTAN
+47374336,2020-08-26 19:26:54,2020-08-26 19:35:38,NYPD,Noise - Street/Sidewalk,Loud Talking,Street/Sidewalk,10031,MANHATTAN
+47371963,2020-08-26 18:49:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11220,BROOKLYN
+47055504,2020-08-01 15:55:28,2020-08-01 16:04:59,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10037,MANHATTAN
+47057896,2020-08-01 16:38:04,2020-08-01 16:59:17,NYPD,Homeless Street Condition,N/A,Residential Building/House,10011,MANHATTAN
+47383837,2020-08-26 19:26:00,2020-09-01 12:00:00,DSNY,Dirty Conditions,E3 Dirty Sidewalk,Sidewalk,10459,BRONX
+47372003,2020-08-26 19:25:26,2020-08-26 19:51:09,NYPD,Drug Activity,Use Outside,,11434,QUEENS
+47366418,2020-08-26 19:09:50,2020-08-26 21:52:11,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10454,BRONX
+47054125,2020-08-01 16:54:49,2020-08-17 08:54:43,HPD,SAFETY,FIRE ESCAPE,RESIDENTIAL BUILDING,11230,BROOKLYN
+47384968,2020-08-26 18:57:00,2020-08-29 12:00:00,DSNY,Sanitation Condition,15 Street Cond/Dump-Out/Drop-Off,Street,11369,QUEENS
+47059116,2020-08-01 16:55:51,2020-08-03 14:05:15,DCWP,Consumer Complaint,Retail Store,Commercial Building,10029,MANHATTAN
+47058800,2020-08-01 16:55:32,2020-08-03 20:05:50,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11356,QUEENS
+47063642,2020-08-01 16:58:00,2020-08-05 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11216,BROOKLYN
+47060646,2020-08-01 17:06:10,2020-08-01 18:25:17,DPR,Damaged Tree,Branch Cracked and Will Fall,Park,10028,MANHATTAN
+47373088,2020-08-26 18:23:59,2020-08-26 18:43:21,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11693,QUEENS
+47061333,2020-08-01 17:07:05,2020-08-01 18:04:08,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,11226,BROOKLYN
+47062329,2020-08-01 17:12:51,2020-08-01 17:32:00,NYPD,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,11694,QUEENS
+47375327,2020-08-26 18:52:16,2021-02-09 15:29:48,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Street,11220,BROOKLYN
+47374086,2020-08-26 18:00:37,2020-08-26 20:10:30,DHS,Homeless Person Assistance,N/A,N/A,11109,QUEENS
+47366222,2020-08-26 18:31:49,2020-08-26 18:43:38,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11693,QUEENS
+47373016,2020-08-26 18:53:15,2020-08-26 19:22:19,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11236,BROOKLYN
+47373322,2020-08-26 18:52:00,2020-09-03 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11427,QUEENS
+47370839,2020-08-26 18:59:00,2020-09-01 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11427,QUEENS
+47064423,2020-08-01 15:56:50,2020-08-01 17:46:21,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11225,BROOKLYN
+47061259,2020-08-01 15:47:30,2020-08-03 10:37:16,DCWP,Consumer Complaint,Employment Agency,Commercial Building,11432,QUEENS
+47059186,2020-08-01 16:14:18,2020-08-09 00:00:00,DOB,Electrical,Electrical Wiring Defective/Exposed,,11221,BROOKLYN
+47053662,2020-08-01 16:35:39,2020-08-01 17:06:06,NYPD,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,11694,QUEENS
+47369135,2020-08-26 19:03:10,2020-08-26 22:06:29,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10022,MANHATTAN
+47058915,2020-08-01 16:03:26,2020-08-01 19:24:54,DPR,Violation of Park Rules,Social Distancing,Park,11237,BROOKLYN
+47367269,2020-08-26 18:15:08,2020-09-05 18:30:25,HPD,WATER LEAK,SLOW LEAK,RESIDENTIAL BUILDING,10040,MANHATTAN
+47060179,2020-08-01 16:19:54,2020-08-01 16:36:20,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11205,BROOKLYN
+47058956,2020-08-01 15:49:45,2020-08-01 15:49:45,DOHMH,Unleashed Dog,Unleashed Dog in Public,Public/Unfenced Area,10304,STATEN ISLAND
+47373405,2020-08-26 19:07:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11233,BROOKLYN
+47372161,2020-08-26 18:59:00,2020-09-01 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11213,BROOKLYN
+47373844,2020-08-26 17:56:40,2020-09-11 16:14:05,HPD,UNSANITARY CONDITION,PESTS,RESIDENTIAL BUILDING,10457,BRONX
+47063389,2020-08-01 16:10:34,2020-08-07 10:49:00,DPR,Maintenance or Facility,Structure - Outdoors,Park,10002,MANHATTAN
+47384636,2020-08-26 18:28:00,2020-08-28 12:00:00,DSNY,Sanitation Condition,15 Street Cond/Dump-Out/Drop-Off,Street,10472,BRONX
+47061036,2020-08-01 17:05:28,2020-08-01 17:17:41,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11221,BROOKLYN
+47374353,2020-08-26 18:47:48,2020-08-26 21:05:00,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10453,BRONX
+47367279,2020-08-26 17:56:40,2020-09-11 16:14:05,HPD,WATER LEAK,SLOW LEAK,RESIDENTIAL BUILDING,10457,BRONX
+47373790,2020-08-26 18:28:10,2020-09-21 10:47:54,EDC,Noise - Helicopter,Other,Above Address,11356,QUEENS
+47061641,2020-08-01 16:07:50,2020-08-01 16:26:36,NYPD,Homeless Street Condition,N/A,,10013,MANHATTAN
+47368464,2020-08-26 19:26:11,2020-08-31 12:00:57,DOT,Sidewalk Condition,Broken Sidewalk,Sidewalk,10021,MANHATTAN
+47062499,2020-08-01 16:46:28,2020-10-26 15:30:33,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11207,BROOKLYN
+47375299,2020-08-26 18:33:11,2020-09-11 09:02:51,DPR,Damaged Tree,Branch Cracked and Will Fall,Street,11372,QUEENS
+47365562,2020-08-26 19:09:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11249,BROOKLYN
+47056608,2020-08-01 16:59:08,2020-08-24 09:29:34,DOT,Outdoor Dining,Sidewalk Zone Blocked,Sidewalk,10302,STATEN ISLAND
+47374912,2020-08-26 18:25:00,2020-09-01 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10024,MANHATTAN
+47054801,2020-08-01 15:54:00,2020-08-05 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10458,BRONX
+47367573,2020-08-26 18:50:42,2020-08-26 19:33:07,NYPD,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,11212,BROOKLYN
+47370488,2020-08-26 18:55:00,2020-08-26 18:55:00,DEP,Water System,Dirty Water (WE),,11209,BROOKLYN
+47052405,2020-08-01 16:59:18,2020-08-01 16:59:56,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47070172,2020-08-01 17:04:00,2020-08-03 12:00:00,DSNY,Sanitation Condition,15 Street Cond/Dump-Out/Drop-Off,Street,11236,BROOKLYN
+47052064,2020-08-01 16:40:13,2020-08-01 16:43:18,NYPD,Homeless Street Condition,N/A,Street/Sidewalk,10023,MANHATTAN
+47371232,2020-08-26 19:25:00,2021-04-19 09:30:00,DOT,Traffic Signal Condition,Pedestrian Signal,,11234,BROOKLYN
+47064165,2020-08-01 16:57:46,2020-08-01 17:10:23,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11691,QUEENS
+47367199,2020-08-26 18:59:36,2020-08-26 18:59:36,DOT,Street Condition,Pothole,,10314,STATEN ISLAND
+47053994,2020-08-01 17:00:59,2020-08-01 18:36:21,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,10472,BRONX
+47052611,2020-08-01 16:44:25,2020-08-03 00:00:00,DOB,Building/Use,Illegal. Commercial Use In Resident Zone,,11434,QUEENS
+47368908,2020-08-26 18:08:24,2020-08-26 18:42:55,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,10032,MANHATTAN
+47059158,2020-08-01 16:47:54,2020-08-01 16:48:44,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47371653,2020-08-26 19:13:44,2020-08-26 22:10:42,DPR,Violation of Park Rules,BBQ Outside Authorized Area,Street/Curbside,10039,MANHATTAN
+47054881,2020-08-01 16:50:19,2020-08-13 15:20:27,DOT,Street Condition,Failed Street Repair,Street,11234,BROOKLYN
+47370783,2020-08-26 18:28:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11417,QUEENS
+47055497,2020-08-01 16:42:22,2020-08-01 16:54:53,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11211,BROOKLYN
+47058954,2020-08-01 15:51:27,2020-10-26 15:30:31,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11367,QUEENS
+47373964,2020-08-26 18:48:32,2020-09-09 14:01:52,DPR,Damaged Tree,Tree Leaning/Uprooted,Street,11415,QUEENS
+47055433,2020-08-01 17:05:08,2020-08-01 17:23:07,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10452,BRONX
+47061689,2020-08-01 16:53:48,2020-08-01 17:13:31,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10032,MANHATTAN
+47368363,2020-08-26 19:19:45,2020-09-02 11:17:24,DOT,Sidewalk Condition,Broken Sidewalk,Sidewalk,10021,MANHATTAN
+47385062,2020-08-26 18:51:00,2020-08-28 12:00:00,DSNY,Dirty Conditions,E2 Receptacle Violation,Sidewalk,11358,QUEENS
+47370724,2020-08-26 18:41:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11221,BROOKLYN
+47053681,2020-08-01 17:06:51,2020-10-26 15:30:35,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,10025,MANHATTAN
+47372897,2020-08-26 18:07:24,2020-08-26 19:17:18,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10009,MANHATTAN
+47060832,2020-08-01 16:04:25,2020-08-01 16:32:35,NYPD,Abandoned Vehicle,With License Plate,Street/Sidewalk,11436,QUEENS
+47366859,2020-08-26 18:35:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11106,QUEENS
+47052965,2020-08-01 17:01:07,2020-08-01 17:10:56,NYPD,Abandoned Vehicle,With License Plate,Street/Sidewalk,11691,QUEENS
+47062394,2020-08-01 16:04:56,2020-08-01 16:05:33,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47374147,2020-08-26 19:07:28,2020-09-18 09:54:58,DOT,Bus Stop Shelter Complaint,Broken Glass,Bus Stop Shelter,11427,QUEENS
+47064429,2020-08-01 16:25:34,2020-08-01 17:11:40,NYPD,Illegal Parking,Posted Parking Sign Violation,Street/Sidewalk,11692,QUEENS
+47366860,2020-08-26 18:30:00,2020-09-22 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11358,QUEENS
+47054983,2020-08-01 16:28:39,2020-08-01 16:48:33,DHS,Homeless Person Assistance,N/A,N/A,11220,BROOKLYN
+47369587,2020-08-26 18:51:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11234,BROOKLYN
+47065351,2020-08-01 16:16:00,2020-08-05 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11226,BROOKLYN
+47056097,2020-08-01 16:50:00,2020-08-02 10:47:00,DEP,Water System,Hydrant Defective (WC2),,10453,BRONX
+47374223,2020-08-26 18:07:00,2020-08-28 11:41:00,DEP,Water System,Hydrant Locking Device Request (Use Comments) (WC5),,10452,BRONX
+47060618,2020-08-01 15:54:12,2020-08-01 15:56:15,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47374683,2020-08-26 19:25:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10303,STATEN ISLAND
+47364915,2020-08-26 18:37:24,2020-08-26 19:31:45,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11374,QUEENS
+47366953,2020-08-26 19:14:00,2020-08-28 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11213,BROOKLYN
+47371571,2020-08-26 18:59:21,2020-08-26 19:48:53,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10029,MANHATTAN
+47371474,2020-08-26 18:00:43,2020-08-26 21:34:38,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10024,MANHATTAN
+47367647,2020-08-26 18:49:00,2020-08-28 02:15:00,DEP,Noise,Noise: Construction Equipment (NC1),,11211,BROOKLYN
+47054110,2020-08-01 16:53:03,2020-08-02 02:26:55,NYPD,Illegal Parking,Double Parked Blocking Traffic,Street/Sidewalk,10463,BRONX
+47054848,2020-08-01 16:50:00,2020-08-12 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11385,QUEENS
+47367620,2020-08-26 18:10:54,2020-08-27 09:26:06,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,10031,MANHATTAN
+47372223,2020-08-26 18:48:38,2020-08-30 09:04:40,HPD,PLUMBING,STEAM PIPE/RISER,RESIDENTIAL BUILDING,11369,QUEENS
+47058052,2020-08-01 16:32:19,2020-08-03 19:57:13,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11421,QUEENS
+47057873,2020-08-01 16:33:14,2020-08-01 17:17:44,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,10453,BRONX
+47054835,2020-08-01 16:34:00,2020-08-07 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11356,QUEENS
+47054712,2020-08-01 15:56:36,2020-08-07 11:24:24,DOT,Outdoor Dining,Table Not in Compliance,Street,10013,MANHATTAN
+47065469,2020-08-01 17:05:55,2020-08-01 17:30:38,NYPD,Noise - Park,Loud Music/Party,Park/Playground,10037,MANHATTAN
+47055208,2020-08-01 16:39:21,2020-08-12 23:43:57,HPD,ELEVATOR,MAINTENANCE,RESIDENTIAL BUILDING,10469,BRONX
+47370408,2020-08-26 18:31:10,2020-08-26 18:56:53,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11433,QUEENS
+47371899,2020-08-26 19:02:00,2020-09-19 18:15:49,HPD,DOOR/WINDOW,DOOR,RESIDENTIAL BUILDING,10459,BRONX
+47052044,2020-08-01 16:57:57,2020-08-01 16:58:54,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47059325,2020-08-01 16:55:43,2020-08-02 21:00:46,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,11226,BROOKLYN
+47370392,2020-08-26 18:10:24,2020-08-26 18:53:10,NYPD,Noise - Commercial,Loud Music/Party,Store/Commercial,11208,BROOKLYN
+47060561,2020-08-01 16:09:21,2020-08-01 16:15:59,NYPD,Noise - Vehicle,Car/Truck Horn,Street/Sidewalk,11366,QUEENS
+47373894,2020-08-26 17:53:09,2021-01-28 13:29:25,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Street,11420,QUEENS
+47366552,2020-08-26 17:57:00,2020-08-26 17:57:00,DEP,Water System,Hydrant Running Full (WA4),,10452,BRONX
+47370572,2020-08-26 18:49:00,2020-08-27 09:00:00,DEP,Water System,Hydrant Running Full (WA4),,11224,BROOKLYN
+47061111,2020-08-01 16:41:09,2020-08-21 18:07:01,DOT,Outdoor Dining,Street Zone Blocked,Street,10034,MANHATTAN
+47375064,2020-08-26 19:16:37,2020-08-26 19:17:30,NYPD,Noise - Vehicle,Car/Truck Horn,Street/Sidewalk,11366,QUEENS
+47371685,2020-08-26 19:23:11,2020-08-26 19:47:22,NYPD,Illegal Parking,Double Parked Blocking Vehicle,Street/Sidewalk,10308,STATEN ISLAND
+47051955,2020-08-01 16:54:35,2020-08-01 17:52:31,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11378,QUEENS
+47064371,2020-08-01 16:59:00,2020-08-01 23:00:00,DEP,Water System,Hydrant Running Full (WA4),,10473,BRONX
+47365075,2020-08-26 18:12:45,2020-08-26 18:23:12,NYPD,Noise - Commercial,Loud Talking,Store/Commercial,10472,BRONX
+47372639,2020-08-26 18:28:09,2021-01-07 13:31:17,DPR,Damaged Tree,Branch Cracked and Will Fall,Street,11418,QUEENS
+47059480,2020-08-01 16:22:58,2020-08-01 17:01:01,NYPD,Noise - Park,Loud Music/Party,Park/Playground,11222,BROOKLYN
+47365260,2020-08-26 19:21:01,2020-08-26 20:46:55,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,11208,BROOKLYN
+47371673,2020-08-26 19:07:28,2020-08-26 19:29:50,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10462,BRONX
+47053701,2020-08-01 16:46:33,2020-08-01 16:47:03,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47065153,2020-08-01 16:06:17,2020-08-01 16:07:24,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47060745,2020-08-01 16:13:40,2020-08-01 16:14:20,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47054782,2020-08-01 16:51:00,2020-08-06 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11362,QUEENS
+47067887,2020-08-01 16:07:00,2020-08-04 12:00:00,DSNY,Missed Collection (All Materials),1R Missed Recycling-All Materials,Sidewalk,11219,BROOKLYN
+47060954,2020-08-01 17:02:44,2020-09-11 10:16:16,DPR,Overgrown Tree/Branches,Dead Branches in Tree,Street,11234,BROOKLYN
+47057342,2020-08-01 16:40:31,2020-08-01 16:40:58,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47061210,2020-08-01 16:45:13,2020-08-01 16:45:30,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47055082,2020-08-01 16:36:30,2020-08-01 16:36:54,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47372875,2020-08-26 17:51:19,2020-08-26 18:22:31,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10457,BRONX
+47366588,2020-08-26 18:03:00,2020-08-31 10:44:00,DEP,Water Conservation,Illegal Use Of A Hydrant (CIN),,10452,BRONX
+47370214,2020-08-26 18:54:37,2020-08-26 19:22:04,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11209,BROOKLYN
+47370923,2020-08-26 18:09:00,2020-08-30 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10310,STATEN ISLAND
+47059734,2020-08-01 17:02:40,2020-08-01 17:03:02,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47374970,2020-08-26 19:11:32,2020-09-10 15:16:14,DOT,Street Condition,Defective Hardware,Street,11411,QUEENS
+47060797,2020-08-01 17:07:50,2020-08-01 17:23:42,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10034,MANHATTAN
+47058818,2020-08-01 16:58:29,2020-08-01 18:37:07,OSE,NonCompliance with Phased Reopening,Business not in compliance,Store/Commercial,10461,BRONX
+47367563,2020-08-26 18:20:43,2020-08-26 18:50:21,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11421,QUEENS
+47052388,2020-08-01 16:09:33,2020-08-01 16:37:51,NYPD,Drug Activity,Use Outside,Street/Sidewalk,11231,BROOKLYN
+47057215,2020-08-01 17:07:21,2020-08-01 17:07:36,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47052020,2020-08-01 16:08:18,2020-08-01 16:10:03,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+47051968,2020-08-01 16:40:24,2020-08-01 16:50:10,NYPD,Noise - Vehicle,Car/Truck Horn,Street/Sidewalk,11366,QUEENS
+47054088,2020-08-01 15:58:13,2020-08-01 16:36:08,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11221,BROOKLYN
+47054783,2020-08-01 17:02:00,2020-08-06 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10314,STATEN ISLAND
+47372937,2020-08-26 18:58:34,2020-08-26 19:09:12,DHS,Homeless Person Assistance,N/A,N/A,10028,MANHATTAN
+47372512,2020-08-26 18:33:31,2020-09-15 10:37:40,HPD,WATER LEAK,SLOW LEAK,RESIDENTIAL BUILDING,11226,BROOKLYN
+47058245,2020-08-01 15:48:03,2020-08-01 15:55:28,NYPD,Non-Emergency Police Matter,Other (complaint details),Residential Building/House,11216,BROOKLYN
+47062281,2020-08-01 16:01:52,2020-08-01 16:47:11,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11234,BROOKLYN
+47368558,2020-08-26 18:31:22,2020-08-28 16:59:25,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Street,11420,QUEENS
+47367900,2020-08-26 18:36:05,2020-08-26 19:16:22,NYPD,Urinating in Public,N/A,Residential Building/House,11233,BROOKLYN
