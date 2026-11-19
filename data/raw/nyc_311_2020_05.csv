@@ -1,0 +1,240 @@
+unique_key,created_date,closed_date,agency,complaint_type,descriptor,location_type,incident_zip,borough
+46238561,2020-05-18 19:25:00,2020-05-24 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11420,QUEENS
+46234637,2020-05-18 19:19:00,2020-05-20 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11220,BROOKLYN
+46131884,2020-05-05 20:39:00,2020-05-05 21:00:21,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,11211,BROOKLYN
+46246246,2020-05-18 20:07:32,2021-01-04 00:00:00,DOB,Building/Use,Illegal Conversion Of Residential Building/Space,,11418,QUEENS
+46234549,2020-05-18 19:29:40,2020-12-14 09:33:20,DCA,Consumer Complaint,Tow Truck Company,Commercial Building,11435,QUEENS
+46138968,2020-05-05 20:35:04,2020-05-05 20:36:35,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46132330,2020-05-05 20:33:50,2020-05-05 20:41:16,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11101,QUEENS
+46138552,2020-05-05 20:00:38,2024-06-03 14:21:49,DOHMH,Food Establishment,Food Spoiled,Restaurant/Bar/Deli/Bakery,10039,MANHATTAN
+46133083,2020-05-05 20:41:38,2020-05-05 21:22:10,NYPD,Non-Emergency Police Matter,Social Distancing,,11249,BROOKLYN
+46232017,2020-05-18 19:30:23,2020-05-18 19:40:05,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46237350,2020-05-18 19:58:28,2020-05-18 20:03:19,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10029,MANHATTAN
+46235325,2020-05-18 20:00:55,2020-05-31 18:01:12,HPD,PLUMBING,BATHTUB/SHOWER,RESIDENTIAL BUILDING,10458,BRONX
+46238110,2020-05-18 19:56:54,2020-05-18 20:08:33,NYPD,Illegal Parking,Commercial Overnight Parking,Street/Sidewalk,11428,QUEENS
+46136699,2020-05-05 20:44:09,2020-05-05 20:48:37,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46139981,2020-05-05 20:29:05,2020-05-05 20:30:04,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10451,BRONX
+46133503,2020-05-05 20:10:00,2020-05-05 20:11:30,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46234619,2020-05-18 19:32:00,2020-05-20 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10309,STATEN ISLAND
+46234620,2020-05-18 19:19:00,2020-05-23 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11356,QUEENS
+46236063,2020-05-18 19:47:20,2020-05-18 20:20:24,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11365,QUEENS
+46137564,2020-05-05 20:05:04,2020-05-07 09:34:53,DOT,Sidewalk Condition,Broken Sidewalk,Sidewalk,11364,QUEENS
+46242722,2020-05-18 19:52:30,2020-05-25 00:00:00,DOB,Special Projects Inspection Team (SPIT),Illegal Hotel Rooms In Residential Building,,10314,STATEN ISLAND
+46230774,2020-05-18 19:27:25,2020-05-18 20:03:23,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11226,BROOKLYN
+46234298,2020-05-18 19:21:15,2020-05-18 19:32:03,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46238678,2020-05-18 19:44:04,2020-05-18 19:44:27,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46141465,2020-05-05 20:19:00,2020-05-07 12:00:00,DSNY,Dirty Conditions,E5 Loose Rubbish,Sidewalk,11207,BROOKLYN
+46134511,2020-05-05 20:24:25,2020-05-05 20:24:54,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46134278,2020-05-05 20:07:45,2020-05-05 20:36:54,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11218,BROOKLYN
+46136242,2020-05-05 20:14:56,2020-05-05 20:14:56,DOHMH,Rodent,Rat Sighting,Commercial Building,10029,MANHATTAN
+46237870,2020-05-18 19:28:15,2020-10-15 13:36:56,DPR,Damaged Tree,Tree Leaning/Uprooted,Street,11363,QUEENS
+46236666,2020-05-18 19:16:00,2020-05-24 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11422,QUEENS
+46232466,2020-05-18 19:20:00,2020-05-22 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10466,BRONX
+46132283,2020-05-05 20:44:41,2020-05-05 20:45:22,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46139492,2020-05-05 19:58:28,2020-05-05 20:36:41,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11432,QUEENS
+46139978,2020-05-05 19:55:26,2020-05-05 19:56:46,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46231377,2020-05-18 20:00:40,2020-05-18 20:18:47,NYPD,Noise - Vehicle,Engine Idling,Street/Sidewalk,10463,BRONX
+46237331,2020-05-18 19:25:49,2020-05-18 19:32:44,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46133348,2020-05-05 20:37:12,2020-05-05 20:38:22,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46131799,2020-05-05 20:23:17,2020-05-05 21:09:50,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11103,QUEENS
+46137926,2020-05-05 20:31:46,2020-05-05 20:32:45,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10451,BRONX
+46233278,2020-05-18 19:12:07,2020-05-18 19:38:51,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46233149,2020-05-18 19:53:11,2020-05-18 19:54:43,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46132292,2020-05-05 20:43:05,2020-05-05 20:43:58,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46230786,2020-05-18 19:36:28,2020-05-18 19:41:09,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46137530,2020-05-05 20:17:41,2020-05-05 20:44:20,NYPD,Noise - Residential,Loud Music/Party,,10029,MANHATTAN
+46230391,2020-05-18 19:38:16,2020-05-18 19:46:33,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,10011,MANHATTAN
+46138969,2020-05-05 20:36:41,2020-05-05 20:37:48,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46135965,2020-05-05 20:35:00,2020-05-09 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10469,BRONX
+46230728,2020-05-18 19:48:11,2020-05-18 20:30:53,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10468,BRONX
+46233294,2020-05-18 20:14:58,2020-05-18 20:39:08,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10458,BRONX
+46138771,2020-05-05 20:19:12,2020-05-05 20:56:16,NYPD,Noise - Commercial,Loud Music/Party,Store/Commercial,10030,MANHATTAN
+46235274,2020-05-18 19:21:02,2020-05-20 18:35:11,HPD,HEAT/HOT WATER,ENTIRE BUILDING,RESIDENTIAL BUILDING,11219,BROOKLYN
+46134676,2020-05-05 19:54:49,2020-05-05 20:09:18,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11203,BROOKLYN
+46231080,2020-05-18 19:54:18,2020-06-11 08:28:23,HPD,APPLIANCE,ELECTRIC/GAS RANGE,RESIDENTIAL BUILDING,10452,BRONX
+46145184,2020-05-05 20:22:00,2020-05-06 12:00:00,DSNY,Dirty Conditions,E3A Dirty Area/Alleyway,Lot,10310,STATEN ISLAND
+46139265,2020-05-05 20:08:57,2020-05-06 11:36:04,DCA,Consumer Complaint,Mail Order,Commercial Building,10463,BRONX
+46230839,2020-05-18 19:45:35,2020-05-18 19:46:27,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46138787,2020-05-05 20:31:52,2020-05-05 20:32:37,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46139138,2020-05-05 19:54:00,2020-05-07 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11206,BROOKLYN
+46136003,2020-05-05 20:14:57,2020-05-05 20:36:15,NYPD,Non-Emergency Police Matter,Face Covering Violation,Street/Sidewalk,11217,BROOKLYN
+46132293,2020-05-05 20:19:04,2020-05-05 20:20:32,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46139169,2020-05-05 20:39:20,2020-05-05 21:04:59,NYPD,Blocked Driveway,Partial Access,,10453,BRONX
+46133043,2020-05-05 20:15:31,2020-05-05 20:34:10,NYPD,Non-Emergency Police Matter,Social Distancing,Park/Playground,11211,BROOKLYN
+46235940,2020-05-18 20:09:00,2020-05-18 21:19:00,DEP,Sewer,Sewer Backup (Use Comments) (SA),,11429,QUEENS
+46233946,2020-05-18 20:10:03,2020-05-18 20:39:54,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11385,QUEENS
+46132972,2020-05-05 20:34:34,2020-05-06 15:12:35,DOHMH,Indoor Sewage,Sewage Leak,1-2 Family Dwelling,11434,QUEENS
+46134374,2020-05-05 19:54:04,2020-08-13 17:28:57,HPD,DOOR/WINDOW,DOOR FRAME,RESIDENTIAL BUILDING,10025,MANHATTAN
+46136677,2020-05-05 20:38:11,2020-05-05 21:05:23,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10454,BRONX
+46236563,2020-05-18 19:28:56,2020-05-18 19:41:57,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10030,MANHATTAN
+46232778,2020-05-18 19:09:25,2020-05-18 19:28:29,NYPD,Illegal Parking,Double Parked Blocking Traffic,Street/Sidewalk,11249,BROOKLYN
+46236849,2020-05-18 19:09:05,2020-05-18 19:15:17,NYPD,Homeless Street Condition,N/A,Street/Sidewalk,11373,QUEENS
+46136098,2020-05-05 20:20:05,2020-05-05 20:36:10,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11203,BROOKLYN
+46135351,2020-05-05 20:25:24,2020-05-15 00:06:13,DOT,Sidewalk Condition,Broken Sidewalk,Sidewalk,11378,QUEENS
+46233766,2020-05-18 19:17:00,2020-06-05 11:09:00,DOT,Street Light Condition,Street Light Out,,10301,STATEN ISLAND
+46231924,2020-05-18 19:42:45,2020-05-18 20:17:37,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,11375,QUEENS
+46139663,2020-05-05 20:23:53,2020-05-05 20:29:49,NYPD,Noise - Residential,Banging/Pounding,,10456,BRONX
+46236947,2020-05-18 19:25:41,2020-05-18 19:35:42,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11420,QUEENS
+46235049,2020-05-18 20:12:00,2020-05-21 13:40:00,DEP,Water System,Hydrant Running (WC3),,10303,STATEN ISLAND
+46136058,2020-05-05 19:53:54,2020-05-05 20:06:48,NYPD,Non-Emergency Police Matter,Social Distancing,Residential Building/House,11419,QUEENS
+46236374,2020-05-18 20:12:27,2020-05-21 17:59:26,HPD,HEAT/HOT WATER,ENTIRE BUILDING,RESIDENTIAL BUILDING,11423,QUEENS
+46235617,2020-05-18 20:04:00,2020-05-21 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10027,MANHATTAN
+46134793,2020-05-05 20:00:23,2020-05-05 20:12:51,NYPD,Noise - Street/Sidewalk,Loud Talking,Street/Sidewalk,10463,BRONX
+46236306,2020-05-18 20:13:27,2020-05-18 20:38:46,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10039,MANHATTAN
+46237173,2020-05-18 20:00:11,2020-05-21 16:28:12,HPD,UNSANITARY CONDITION,MOLD,RESIDENTIAL BUILDING,11207,BROOKLYN
+46238746,2020-05-18 19:33:00,2020-06-02 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11361,QUEENS
+46238653,2020-05-18 19:40:49,2020-05-18 20:01:15,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10301,STATEN ISLAND
+46236118,2020-05-18 20:13:45,2020-05-18 20:24:08,NYPD,Non-Emergency Police Matter,Social Distancing,Park/Playground,11237,BROOKLYN
+46233344,2020-05-18 19:53:00,2020-05-23 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11379,QUEENS
+46135689,2020-05-05 20:12:15,2020-05-22 07:57:03,HPD,SAFETY,WINDOW GUARD BROKEN/MISSING,RESIDENTIAL BUILDING,11378,QUEENS
+46134153,2020-05-05 20:26:58,2020-05-05 20:53:06,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,11212,BROOKLYN
+46232152,2020-05-18 20:09:32,2020-05-21 16:28:15,HPD,FLOORING/STAIRS,FLOOR,RESIDENTIAL BUILDING,11207,BROOKLYN
+46135519,2020-05-05 20:18:39,2020-05-21 07:21:52,HPD,UNSANITARY CONDITION,PESTS,RESIDENTIAL BUILDING,11212,BROOKLYN
+46133484,2020-05-05 20:15:20,2020-05-05 20:16:15,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46138914,2020-05-05 20:29:12,2020-05-05 20:29:50,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46135761,2020-05-05 19:58:57,2020-05-05 20:12:09,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11212,BROOKLYN
+46235103,2020-05-18 19:22:26,2020-05-18 19:38:28,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,11218,BROOKLYN
+46137006,2020-05-05 20:06:00,2020-05-13 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10075,MANHATTAN
+46137632,2020-05-05 20:12:15,2020-05-22 07:57:03,HPD,SAFETY,SMOKE DETECTOR,RESIDENTIAL BUILDING,11378,QUEENS
+46237264,2020-05-18 19:15:41,2020-05-18 19:35:49,NYPD,Blocked Driveway,Partial Access,Street/Sidewalk,11421,QUEENS
+46135660,2020-05-05 20:12:40,2020-05-05 20:13:58,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46138860,2020-05-05 19:57:00,2020-05-05 20:27:23,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10453,BRONX
+46136266,2020-05-05 20:12:00,2020-05-06 02:45:00,DEP,Air Quality,"Air: Odor/Fumes, Vehicle Idling (AD3)",,11419,QUEENS
+46238053,2020-05-18 20:00:00,2020-05-18 20:45:00,DEP,Water System,Hydrant Running (WC3),,10457,BRONX
+46234026,2020-05-18 19:54:39,2020-05-28 12:50:03,DPR,Maintenance or Facility,Garbage or Litter,Park,10033,MANHATTAN
+46134183,2020-05-05 20:10:59,2020-05-05 20:26:27,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,11222,BROOKLYN
+46236665,2020-05-18 20:01:00,2020-06-02 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11361,QUEENS
+46231997,2020-05-18 19:56:04,2020-05-18 19:56:45,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11368,QUEENS
+46134249,2020-05-05 20:11:09,2020-05-05 20:37:54,NYPD,Illegal Parking,Blocked Sidewalk,Street/Sidewalk,11412,QUEENS
+46138935,2020-05-05 19:57:14,2020-05-05 20:14:16,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46233079,2020-05-18 19:54:45,2020-05-18 20:15:26,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10304,STATEN ISLAND
+46133862,2020-05-05 20:17:00,2020-05-07 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,10460,BRONX
+46235224,2020-05-18 19:49:23,2020-05-18 19:51:10,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46139474,2020-05-05 20:01:57,2020-05-05 20:46:51,NYPD,Non-Emergency Police Matter,Social Distancing,Park/Playground,10002,MANHATTAN
+46134942,2020-05-05 20:14:12,2020-05-05 20:23:55,NYPD,Non-Emergency Police Matter,Face Covering Violation,Store/Commercial,10021,MANHATTAN
+46236953,2020-05-18 20:13:50,2020-05-18 20:19:13,NYPD,Traffic,Drag Racing,Street/Sidewalk,10040,MANHATTAN
+46134798,2020-05-05 20:09:40,2020-05-05 20:33:41,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,10030,MANHATTAN
+46138232,2020-05-05 20:21:50,2020-05-05 20:24:45,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11104,QUEENS
+46236337,2020-05-18 20:03:11,2020-05-18 20:30:56,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46139781,2020-05-05 19:57:02,2020-05-05 20:41:09,NYPD,Blocked Driveway,Partial Access,Street/Sidewalk,11432,QUEENS
+46136668,2020-05-05 20:20:40,2020-05-05 20:21:29,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46235984,2020-05-18 19:42:07,2020-07-21 16:45:03,DPR,Maintenance or Facility,Garbage or Litter,Park,11413,QUEENS
+46237796,2020-05-18 19:49:00,2020-05-22 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11102,QUEENS
+46231895,2020-05-18 19:35:42,2020-05-18 19:40:45,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46132798,2020-05-05 20:07:04,2020-05-05 20:29:20,NYPD,Non-Emergency Police Matter,Face Covering Violation,Store/Commercial,11378,QUEENS
+46236525,2020-05-18 20:11:55,2020-05-18 20:34:37,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10456,BRONX
+46133540,2020-05-05 20:35:56,2020-05-05 20:39:30,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46232397,2020-05-18 20:13:00,2020-05-21 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11357,QUEENS
+46137005,2020-05-05 20:41:00,2020-05-08 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11103,QUEENS
+46136777,2020-05-05 20:34:26,2020-05-05 20:37:19,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46237655,2020-05-18 20:04:21,2020-05-18 20:19:06,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10454,BRONX
+46237070,2020-05-18 20:06:22,2020-06-02 16:22:32,DOT,Sidewalk Condition,Pedestrian Ramp Defective,Sidewalk,10465,BRONX
+46139906,2020-05-05 19:52:56,2020-05-05 19:53:55,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46230508,2020-05-18 20:04:32,2020-05-18 20:32:49,NYPD,Homeless Street Condition,N/A,Residential Building/House,11205,BROOKLYN
+46230823,2020-05-18 19:39:30,2020-05-18 19:42:27,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46138743,2020-05-05 20:18:10,2020-05-05 20:50:30,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11372,QUEENS
+46238465,2020-05-18 20:15:54,2020-05-18 20:31:14,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,11213,BROOKLYN
+46136872,2020-05-05 19:55:45,2020-05-05 20:02:17,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,11368,QUEENS
+46135549,2020-05-05 20:38:18,2020-05-05 21:08:24,NYPD,Blocked Driveway,No Access,Street/Sidewalk,10306,STATEN ISLAND
+46231883,2020-05-18 19:52:24,2020-05-18 20:10:25,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11213,BROOKLYN
+46137833,2020-05-05 19:53:58,2020-05-05 20:12:19,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11222,BROOKLYN
+46134652,2020-05-05 19:56:55,2020-05-29 10:45:30,HPD,FLOORING/STAIRS,STAIRS,RESIDENTIAL BUILDING,11209,BROOKLYN
+46138360,2020-05-05 20:02:43,2020-05-05 20:36:23,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11209,BROOKLYN
+46133999,2020-05-05 20:44:05,2020-05-05 20:57:09,NYPD,Homeless Street Condition,N/A,Street/Sidewalk,10003,MANHATTAN
+46241341,2020-05-18 19:34:00,2020-05-19 12:00:00,DSNY,Sanitation Condition,12 Dead Animals,Sidewalk,10308,STATEN ISLAND
+46135818,2020-05-05 20:33:01,2020-05-05 20:57:17,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10467,BRONX
+46236061,2020-05-18 19:24:31,2020-05-18 19:28:39,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,10035,MANHATTAN
+46138819,2020-05-05 20:39:00,2020-06-06 11:15:00,DOT,Traffic Signal Condition,Controller,,11373,QUEENS
+46136590,2020-05-05 20:12:15,2020-05-22 07:57:03,HPD,GENERAL,VENTILATION SYSTEM,RESIDENTIAL BUILDING,11378,QUEENS
+46136113,2020-05-05 20:14:37,2020-05-05 20:19:59,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11237,BROOKLYN
+46232529,2020-05-18 19:54:13,2020-05-18 20:13:51,NYPD,Animal-Abuse,Other (complaint details),Store/Commercial,11368,QUEENS
+46237417,2020-05-18 20:05:21,2020-05-18 20:42:47,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11238,BROOKLYN
+46232468,2020-05-18 19:12:00,2020-05-23 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11432,QUEENS
+46236566,2020-05-18 19:37:13,2020-05-18 19:41:25,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46132297,2020-05-05 20:12:07,2020-05-05 20:14:16,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46230904,2020-05-18 19:53:29,2020-05-18 20:21:33,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,11225,BROOKLYN
+46232037,2020-05-18 19:11:22,2020-05-18 19:11:41,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46135691,2020-05-05 20:27:45,2020-05-05 20:56:21,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11222,BROOKLYN
+46137710,2020-05-05 19:55:29,2020-05-05 20:01:29,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10009,MANHATTAN
+46138942,2020-05-05 20:35:17,2020-05-05 21:06:32,NYPD,Noise - Street/Sidewalk,Loud Talking,Street/Sidewalk,11207,BROOKLYN
+46236218,2020-05-18 19:24:20,2020-11-12 22:07:35,DOT,Street Sign - Damaged,Street Cleaning - ASP,Street,11375,QUEENS
+46230363,2020-05-18 20:06:48,2020-05-18 21:38:48,NYPD,Non-Emergency Police Matter,Social Distancing,Park/Playground,10026,MANHATTAN
+46136779,2020-05-05 20:43:37,2020-05-05 20:44:14,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46133675,2020-05-05 19:59:34,2020-05-05 20:31:04,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11207,BROOKLYN
+46237274,2020-05-18 20:14:51,2020-05-18 20:36:35,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,11206,BROOKLYN
+46238745,2020-05-18 19:41:00,2020-05-20 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11211,BROOKLYN
+46135198,2020-05-05 20:15:22,2020-05-05 20:28:04,NYPD,Non-Emergency Police Matter,Social Distancing,,10467,BRONX
+46138487,2020-05-05 20:08:01,2020-05-05 20:11:53,NYPD,Non-Emergency Police Matter,Social Distancing,,11238,BROOKLYN
+46135658,2020-05-05 20:23:20,2020-05-05 20:23:39,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46135116,2020-05-05 19:59:53,2020-05-05 20:26:45,NYPD,Non-Emergency Police Matter,Social Distancing,Residential Building/House,11238,BROOKLYN
+46132304,2020-05-05 20:00:23,2020-05-05 20:12:25,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46138851,2020-05-05 20:06:16,2020-05-05 20:07:52,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46135251,2020-05-05 20:04:51,2020-05-05 20:45:59,NYPD,Non-Emergency Police Matter,Social Distancing,Park/Playground,10033,MANHATTAN
+46236288,2020-05-18 19:14:39,2020-05-18 19:22:05,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10030,MANHATTAN
+46234164,2020-05-18 19:10:36,2020-05-18 19:11:24,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46233293,2020-05-18 19:16:14,2020-05-18 19:50:10,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10034,MANHATTAN
+46132405,2020-05-05 20:01:02,2020-05-05 20:27:38,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,10453,BRONX
+46138080,2020-05-05 20:14:00,2020-05-08 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11226,BROOKLYN
+46132148,2020-05-05 19:57:49,2020-05-05 20:13:55,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46230829,2020-05-18 20:14:03,2020-05-18 20:31:03,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,11208,BROOKLYN
+46134067,2020-05-05 20:44:40,2020-05-07 10:02:42,DPR,Damaged Tree,Branch or Limb Has Fallen Down,Street,11212,BROOKLYN
+46138792,2020-05-05 20:32:58,2020-05-05 20:38:48,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46140183,2020-05-05 20:38:00,2020-05-09 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11103,QUEENS
+46238267,2020-05-18 20:00:11,2020-05-21 16:28:11,HPD,PAINT/PLASTER,CABINET,RESIDENTIAL BUILDING,11207,BROOKLYN
+46139218,2020-05-05 20:40:34,2020-05-05 20:57:02,NYPD,Non-Emergency Police Matter,Face Covering Violation,Street/Sidewalk,10024,MANHATTAN
+46137799,2020-05-05 20:39:31,2020-05-05 20:41:56,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11385,QUEENS
+46137835,2020-05-05 19:57:09,2020-05-05 20:11:46,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11222,BROOKLYN
+46233090,2020-05-18 19:31:16,2020-05-18 19:52:40,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11411,QUEENS
+46143644,2020-05-05 20:17:12,2020-06-09 00:00:00,DOB,Building/Use,No Certificate Of Occupancy/Illegal/Contrary To CO,,11375,QUEENS
+46135211,2020-05-05 20:10:29,2020-05-05 20:43:19,NYPD,Non-Emergency Police Matter,Social Distancing,,11213,BROOKLYN
+46231452,2020-05-18 19:55:22,2020-05-20 11:04:20,DPR,Dead/Dying Tree,Planted More Than 2 Years Ago,Street,11375,QUEENS
+46138808,2020-05-05 20:28:09,2020-05-05 20:37:27,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,11237,BROOKLYN
+46230461,2020-05-18 19:29:29,2020-05-18 19:37:19,NYPD,Non-Emergency Police Matter,Social Distancing,,11372,QUEENS
+46132419,2020-05-05 20:04:53,2020-05-05 20:24:20,NYPD,Noise - Residential,Loud Talking,,11208,BROOKLYN
+46133663,2020-05-05 19:54:35,2020-05-05 20:02:30,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,11368,QUEENS
+46231228,2020-05-18 19:50:00,2020-05-21 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11223,BROOKLYN
+46139905,2020-05-05 20:02:31,2020-05-05 20:06:13,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46231171,2020-05-18 19:09:57,2020-05-20 08:37:06,HPD,HEAT/HOT WATER,APARTMENT ONLY,RESIDENTIAL BUILDING,10451,BRONX
+46139434,2020-05-05 20:05:09,2020-05-05 20:34:48,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,11220,BROOKLYN
+46135890,2020-05-05 20:17:13,2020-05-05 20:40:53,NYPD,Noise - Street/Sidewalk,Loud Music/Party,Street/Sidewalk,10002,MANHATTAN
+46145492,2020-05-05 19:56:01,2020-06-02 00:00:00,DOB,Electrical,Electrical Wiring Defective/Exposed,,10453,BRONX
+46134127,2020-05-05 20:00:39,2020-05-05 20:05:50,NYPD,Non-Emergency Police Matter,Social Distancing,Park/Playground,10002,MANHATTAN
+46236052,2020-05-18 19:25:33,2020-05-18 19:47:14,NYPD,Non-Emergency Police Matter,Social Distancing,Residential Building/House,11221,BROOKLYN
+46233976,2020-05-18 19:43:51,2020-05-18 20:15:47,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,11237,BROOKLYN
+46138014,2020-05-05 20:35:37,2020-05-05 20:36:55,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46132483,2020-05-05 20:06:16,2020-05-11 10:31:00,DOT,Street Condition,Pothole,,11222,BROOKLYN
+46136128,2020-05-05 19:53:54,2020-05-05 20:07:55,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11220,BROOKLYN
+46232636,2020-05-18 19:19:00,2020-05-18 20:55:00,DOT,Traffic Signal Condition,Controller,,11211,BROOKLYN
+46237544,2020-05-18 19:19:03,2020-05-18 19:44:29,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,11225,BROOKLYN
+46230737,2020-05-18 19:43:18,2020-05-18 19:43:37,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46139000,2020-05-05 20:40:57,2020-05-05 20:42:46,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46231161,2020-05-18 19:52:56,2020-05-18 20:10:21,NYPD,Illegal Parking,Blocked Hydrant,Street/Sidewalk,10027,MANHATTAN
+46136210,2020-05-05 20:27:42,2020-05-05 20:29:31,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,10452,BRONX
+46136096,2020-05-05 19:59:48,2020-05-05 20:12:46,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11222,BROOKLYN
+46137372,2020-05-05 20:31:33,2020-05-05 20:48:04,NYPD,Noise - Vehicle,Engine Idling,Street/Sidewalk,10040,MANHATTAN
+46234795,2020-05-18 19:14:37,2020-05-18 19:23:28,NYPD,Non-Emergency Police Matter,Face Covering Violation,Street/Sidewalk,11208,BROOKLYN
+46231646,2020-05-18 19:20:18,2020-05-18 19:41:34,NYPD,Non-Emergency Police Matter,Social Distancing,Park/Playground,10462,BRONX
+46233406,2020-05-18 19:50:00,2020-05-21 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11210,BROOKLYN
+46138954,2020-05-05 20:07:51,2020-05-05 20:08:26,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46234013,2020-05-18 19:40:39,2020-05-18 20:17:17,NYPD,Blocked Driveway,Partial Access,Street/Sidewalk,11375,QUEENS
+46138418,2020-05-05 20:19:20,2020-05-05 20:56:55,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,10027,MANHATTAN
+46138235,2020-05-05 20:36:58,2020-05-05 20:40:04,NYPD,Non-Emergency Police Matter,Social Distancing,Store/Commercial,11231,BROOKLYN
+46139795,2020-05-05 20:10:57,2020-05-05 20:30:55,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11368,QUEENS
+46231675,2020-05-18 19:41:01,2020-05-18 20:15:35,NYPD,Non-Emergency Police Matter,Social Distancing,Street/Sidewalk,10034,MANHATTAN
+46238213,2020-05-18 19:57:00,2020-05-20 14:55:00,DEP,Noise,"Noise, Barking Dog (NR5)",,11427,QUEENS
+46231709,2020-05-18 20:04:40,2020-05-18 20:57:46,NYPD,Blocked Driveway,No Access,Street/Sidewalk,11233,BROOKLYN
+46236723,2020-05-18 19:38:00,2020-05-21 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11234,BROOKLYN
+46234358,2020-05-18 19:21:24,2020-05-18 19:44:50,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,10304,STATEN ISLAND
+46132656,2020-05-05 20:25:00,2020-05-09 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11379,QUEENS
+46236172,2020-05-18 19:41:40,2020-05-18 20:14:00,NYPD,Non-Emergency Police Matter,Trespassing,Residential Building/House,10027,MANHATTAN
+46139137,2020-05-05 20:38:00,2020-05-09 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11434,QUEENS
+46137969,2020-05-05 20:38:16,2020-05-05 20:39:55,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46132230,2020-05-05 19:57:11,2020-05-05 19:57:54,NYPD,Noise - Residential,Loud Music/Party,Residential Building/House,10466,BRONX
+46238442,2020-05-18 19:57:03,2020-05-19 15:59:02,HPD,UNSANITARY CONDITION,GARBAGE/RECYCLING STORAGE,RESIDENTIAL BUILDING,11226,BROOKLYN
+46234148,2020-05-18 19:16:00,2020-05-18 19:59:57,NYPD,Noise - Residential,Banging/Pounding,Residential Building/House,11230,BROOKLYN
+46235427,2020-05-18 19:48:00,2020-05-21 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11001,QUEENS
+46237392,2020-05-18 19:48:28,2020-05-18 20:02:32,NYPD,Noise - Vehicle,Car/Truck Music,Street/Sidewalk,10458,BRONX
+46139210,2020-05-05 20:39:51,2020-05-05 21:02:14,NYPD,Graffiti,Police Report Not Requested,Residential Building/House,11235,BROOKLYN
+46234476,2020-05-18 20:11:00,2020-05-23 00:00:00,DSNY,Request Large Bulky Item Collection,Request Large Bulky Item Collection,Sidewalk,11422,QUEENS
+46237292,2020-05-18 19:54:18,2020-06-22 17:18:11,HPD,DOOR/WINDOW,DOOR,RESIDENTIAL BUILDING,10452,BRONX
+46234781,2020-05-18 19:33:00,2020-05-18 20:30:00,DOT,Traffic Signal Condition,Controller,,,Unspecified
