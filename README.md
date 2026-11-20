@@ -44,6 +44,21 @@ Three classification algorithms were trained and evaluated:
 - Random Forest
 - Gradient Boosting
 
+## Model Evaluation Results
+
+The models were evaluated on a chronological test set of 4,000 records.
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+|---|---:|---:|---:|---:|
+| Logistic Regression | 85.40% | 51.39% | 90.07% | 65.44% |
+| Random Forest | 88.08% | 57.88% | 81.92% | 67.84% |
+| Gradient Boosting | 88.78% | 60.87% | 75.24% | 67.30% |
+
+**Key Findings:**
+- Random Forest achieved the highest F1-score (67.84%).
+- Logistic Regression achieved the highest recall (90.07%).
+- Gradient Boosting achieved the highest accuracy (88.78%) and precision (60.87%).
+
 ## Streamlit Application
 
 CivicFix provides an interactive interface where users can:
