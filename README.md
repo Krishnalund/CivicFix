@@ -23,9 +23,14 @@ The system uses information available when a complaint is submitted to make pred
 
 **Source:** NYC Open Data – 311 Service Requests (2020–Present)
 
-The project uses a sample of 20,000 records collected from 2020–2025.
+**Dataset Period:** 2020–2025
 
-The models use nine features available at complaint submission, including agency, complaint type, descriptor, borough, ZIP code, location type, and complaint creation date/time information.
+**Sample Size:** 20,000 records
+
+**Dataset Download:** https://drive.google.com/drive/folders/18yUd3p9abd4jnpeoshMJ1tUX_wnrTDl2?usp=sharing
+
+The extracted raw and processed datasets are available through the Google Drive link above. The dataset is shared separately because of the submission portal's 5 MB upload limit.
+
 
 ## Project Workflow
 
